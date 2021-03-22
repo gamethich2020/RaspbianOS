@@ -6,9 +6,9 @@ https://www.raspberrypi.org
 
 ## RaspbianOS Update 2021
 
-Run RaspbianOS Using Proot Without Rooted On Android \
+Run RaspbianOS Without Root On Android \
 RaspbianOS Support Arm And Doesn't Support Architecture Aarch64 \
-Or Run it Via Termux Arm For aarch64 \
+Run Termux Arm For Aarch64 \
 # Install GUI In Raspbian LITE ?
 
 pkg install git\
