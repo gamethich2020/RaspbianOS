@@ -1,16 +1,16 @@
 # RaspbianOS On Android
 Official Website Raspberry Pi Foundation\
 https://www.raspberrypi.org \
-\
-Game Thich \\
 
-RaspbianOS Update 2021 \
+## by Game Thich
+
+##RaspbianOS Update 2021
 
 GNU/GPL\
 Run RaspbianOS Using Proot Without Rooted On Android \
 RaspbianOS Support Arm And Doesn't Support Architecture Aarch64 \
 Or Run it Via Termux Arm For aarch64 \
-Install GUI In Raspbian LITE ?
+#Install GUI In Raspbian LITE ?
 
 pkg install git\
 uname -m\
