@@ -10,7 +10,7 @@ GNU/GPL\
 Run RaspbianOS Using Proot Without Rooted On Android \
 RaspbianOS Support Arm And Doesn't Support Architecture Aarch64 \
 Or Run it Via Termux Arm For aarch64 \
-Install GUI In Raspbian LITE ?\
+Install GUI In Raspbian LITE ?
 
 pkg install git\
 uname -m\
@@ -28,10 +28,10 @@ sudo apt-get install raspberrypi-ui-mods\
 sudo apt install lxterminal\
 sudo apt install tightvncserver\
 export USER=root\
-vncserver\
+vncserver
 
 Install firefox If you need\
-sudo apt install firefox-esr\
+sudo apt install firefox-esr
 
 sudo apt raspi-config
 
