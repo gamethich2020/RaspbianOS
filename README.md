@@ -8,7 +8,7 @@ https://www.raspberrypi.org
 
 Run RaspbianOS Without Root On Android \
 RaspbianOS Support Arm And Doesn't Support Architecture Aarch64 \
-Run On Termux Arm For Aarch64 \
+Run On Termux Arm For Aarch64
 # Install GUI In Raspbian LITE ?
 
 pkg install git\
